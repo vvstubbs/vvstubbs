@@ -7,7 +7,7 @@
         and don't forget Raspberry Pi's.
 - Adendum: Back in the day, when working, I programmed heavily in Clipper, (a dBase compiler, with many extentions)
            and a lot of C programming, but straight C became tedious  and Clipper has fallen by the way side. 
-           Hence myinterest in python.
+           Hence my interest in python.
 
 <!---
 vvstubbs/vvstubbs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
