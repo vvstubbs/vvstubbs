@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @vvstubbs Valentine Stubbs, but call me Valentine or Val, what ever works.
-- 👀 I’m interested in AI, Voice personal assistants, python,and php. And well lots of things but I work tire you with a complete list.
+- 👀 I’m interested in AI, Voice personal assistants, python,and php. And well lots of things but I won't tire you with a complete list.
+- Very interest and currently developing Virtual Assistant, AI, and IoT technologies
 - 🌱 I’m currently learning Mycroft, and precise and wake word training. But I'm thinking of trying some other "back engine"
 - 💞️ I’m looking to collaborate on Mycroft AI, and other python projectsof interest (Now that I'm mostly retired)
 - 📫 How to reach me? Several ways, but I guess valentine.stubbs@icloud.com that one always works.
