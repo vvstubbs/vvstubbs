@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vvstubbs Valentine Stubbs, but call me Valentine or Val, what ever works.
 - 🌱 First and formost I work in UNIX and unix like operating systems.
-- 👀 I’m interested in AI, Voice personal assistants, python,and php. And well lots of things but I won't tire you with a complete list.
+- 👀 I’m interested in AI, Voice personal assistants, python,and php. Well lots of things, I won't tire you with a complete list.
 - 🌱 Very interest and currently developing AI based systems, and I dabble in some IoT technologies.
 - 🌱 Been involved "Cyber" Security, several in-depth projects of late. I'd tell you more, but then I'd have to kill you
 - 💞️ Working on a AI based System Security Assessment system. running on my own self-host AI engine.
